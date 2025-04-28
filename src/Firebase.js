@@ -5,13 +5,13 @@ import {addDoc, collection, getFirestore} from "firebase/firestore"
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDYi0LOre7wfucsC5ziJjhnAi6J0KcrGLw",
-  authDomain: "netflixclone-b60d3.firebaseapp.com",
-  projectId: "netflixclone-b60d3",
-  storageBucket: "netflixclone-b60d3.firebasestorage.app",
-  messagingSenderId: "971222601237",
-  appId: "1:971222601237:web:c47548cdbc93a3e7d4c81c",
-  measurementId: "G-3VTG8G3MK6"
+    apiKey: "__FIREBASE_API_KEY__",
+    authDomain: "__FIREBASE_AUTH_DOMAIN__",
+    projectId: "__FIREBASE_PROJECT_ID__",
+    storageBucket: "__FIREBASE_STORAGE_BUCKET__",
+    messagingSenderId: "__FIREBASE_MESSAGING_SENDER_ID__",
+    appId: "__FIREBASE_APP_ID__",
+    measurementId: "__FIREBASE_MEASUREMENT_ID__"
 };
 
 // Initialize Firebase
