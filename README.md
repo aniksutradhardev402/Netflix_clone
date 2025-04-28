@@ -18,7 +18,7 @@ The project is deployed automatically using **GitHub Actions** and **GitHub Page
 
 ## ⚙️ Tech Stack
 
-- **Frontend:** React 19, Vite, TailwindCSS
+- **Frontend:** React , Vite, CSS
 - **Backend Services:** Firebase Authentication, Firestore
 - **Deployment:** GitHub Pages, GitHub Actions
 
